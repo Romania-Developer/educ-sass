@@ -1,1 +1,2 @@
-# educ
+# eduhub
+Education Website
